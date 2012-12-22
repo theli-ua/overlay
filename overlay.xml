@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE repositories SYSTEM "/dtd/repositories.dtd">
+<repositories xmlns="" version="1.0">
+<repo quality="experimental" status="unofficial">
+  <name>honpurple</name>
+  <description>Contains ebuilds for honpurple.</description>
+  <homepage>https://github.com/theli-ua/</homepage>
+  <owner type="project">
+    <email>theli.ua@gmail.com</email>
+    <name>github.com/theli-ua</name>
+  </owner>
+  <source type="git">https://github.com/theli-ua/overlay.git</source>
+</repo>
+</repositories>
